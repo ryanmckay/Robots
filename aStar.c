@@ -2,6 +2,7 @@
 #pragma config(Sensor, S3, lightSensor, sensorLightActive)
 #include "drivers/hitechnic-eopd.h";
 
+//Ryan McKay and George Jaray
 //header
 
 typedef struct node;
