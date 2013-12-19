@@ -1,4 +1,5 @@
 //Wait(300) 15degree
+//Ryan McKay and George Jaray
 task main(){
      //int t0 = CurrentTick();
      long t0 = CurrentTick();
